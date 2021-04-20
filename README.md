@@ -25,5 +25,5 @@ E-mail: [daniellimaa05@gmail.com](mailto:daniellimaa05@gmail.com)
 
 ## My Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danlimaxfc&count_private=true&show_icons=true&theme=tokyonight)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlimaxc&theme=tokyonight)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danlimax&count_private=true&show_icons=true&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlimax&theme=tokyonight)]()
