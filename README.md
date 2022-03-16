@@ -1,6 +1,5 @@
 <h1 align="left">Hello, I am Daniel! </h1>
 
-### Olá!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lima-08845717a/)
 
