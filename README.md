@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lima-08845717a/)
 
-Me chamo Daniel, tenho 28 anos, sou formado em Educação Física (Licenciatura), cursando o (Bacharel) e estou me aventurando no aprendizado da programação.
+Sou Daniel, sou formado em Educação Física (Licenciatura), cursando o (Bacharel) e estou me aventurando no aprendizado da programação.
 
 E-mail: [daniellimaa05@gmail.com](mailto:daniellimaa05@gmail.com)
 
