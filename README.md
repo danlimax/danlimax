@@ -16,7 +16,7 @@ E-mail: [daniellimaa05@gmail.com](mailto:daniellimaa05@gmail.com)
 ![React](https://img.shields.io/badge/-React-1F232A?style=flat-square&logo=React&logoColor=white)
 
 ### Learning
-![typescript]
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ### Interested
