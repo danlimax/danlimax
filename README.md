@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lima-08845717a/)
 
-I graduated in Physical Education (Bachelor), studying (Bachelor) and I'm venturing into learning programming.
+I have a degree in Physical Education (Bachelor), studying (Bachelor) and I have been studying development for 3 years.
 
 E-mail: [daniellimaa05@gmail.com](mailto:daniellimaa05@gmail.com)
 
