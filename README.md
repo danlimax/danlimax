@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-## Sou professor de Educação Física (Bacharel e Licenciatura), estudo Análise e desenvolvimento de sistemas, trabalhei como atendente de teleserviços back office e estou em busca de novas oportunidades na área de TI.
+## Sou professor de Educação Física (Bacharel e Licenciatura), estudo Análise e desenvolvimento de sistemas, trabalhei como atendente de teleserviços back office e atualmente trabalho como desenvolvedor full stack.
 
 ## Links para conexão
 
