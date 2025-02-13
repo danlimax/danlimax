@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/demo/?lines=Ol%C3%A1!+eu+sou+Daniel+Lima)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+eu+sou+Daniel+Lima)](https://git.io/typing-svg)
 
 ## Sobre mim:
 
