@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-## Estudante de Análise e desenvolvimento de sistemas, trabalhei como atendente de teleserviços back office e atualmente trabalho como desenvolvedor full stack.
+## Olá! Sou Daniel Lima, um desenvolvedor full-stack com experiência em React e Node.js. Apaixonado por tecnologia e inovação, busco constantemente aprender novas habilidades e aprimorar meus conhecimentos para criar soluções eficientes e eficazes.
 
 ## Links para conexão
 
