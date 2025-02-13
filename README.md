@@ -1,5 +1,5 @@
-# Olá, eu sou Daniel Lima
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ## Sobre mim:
 
 ## Estudante de Análise e desenvolvimento de sistemas, trabalhei como atendente de teleserviços back office e atualmente trabalho como desenvolvedor full stack.
