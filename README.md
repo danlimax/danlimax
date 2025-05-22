@@ -18,13 +18,13 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="mongoDB" /></a>
-//<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>&nbsp;&nbsp;
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="36" height="36" alt="postgresql" /></a>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>&nbsp;&nbsp; -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="36" height="36" alt="postgresql" /></a> 
 
 ## Estou estudando
 
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=m4XmoQpRVreA&format=png&color=000000" width="36" height="36" alt="C#" /></a>
-
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://br.vuejs.org/images/logo.png" width="36" height="36" alt="vue" /></a>
 
 ## GitHub Status
 
