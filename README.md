@@ -2,9 +2,7 @@
 
 ## Sobre mim:
 
-## Olá! Meu nome é Daniel Lima, sou desenvolvedor full-stack com mais de um ano de experiência na área de desenvolvimento. Tenho trabalhado com diversas tecnologias, incluindo React, Node.js, JavaScript, TypeScript e C#, construindo soluções completas e eficientes tanto no front-end quanto no back-end.
-
-Sou apaixonado por tecnologia e estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades para criar experiências digitais que façam a diferença.
+## Sou desenvolvedor full-stack com mais de um ano de experiência na área de desenvolvimento. Tenho trabalhado com diversas tecnologias, incluindo React, Node.js, JavaScript, TypeScript e C#, construindo soluções completas e eficientes tanto no front-end quanto no back-end. <br><br> Sou apaixonado por tecnologia e estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades para criar experiências digitais que façam a diferença.
 
 ## Links para conexão
 
