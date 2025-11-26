@@ -26,7 +26,7 @@
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=m4XmoQpRVreA&format=png&color=000000" width="36" height="36" alt="C#" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://br.vuejs.org/images/logo.png" width="36" height="36" alt="vue" /></a>
 
-## GitHub Status
+<!-- ## GitHub Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danlimax&count_private=true&show_icons=true&theme=tokyonight)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlimax&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlimax&theme=tokyonight)]() -->
